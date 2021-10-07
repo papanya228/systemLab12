@@ -1,0 +1,10 @@
+F:\C#\grafredactor\grafredactor\bin\Debug\grafredactor.exe.config
+F:\C#\grafredactor\grafredactor\bin\Debug\grafredactor.exe
+F:\C#\grafredactor\grafredactor\bin\Debug\grafredactor.pdb
+F:\C#\grafredactor\grafredactor\obj\Debug\grafredactor.csprojAssemblyReference.cache
+F:\C#\grafredactor\grafredactor\obj\Debug\grafredactor.Form1.resources
+F:\C#\grafredactor\grafredactor\obj\Debug\grafredactor.Properties.Resources.resources
+F:\C#\grafredactor\grafredactor\obj\Debug\grafredactor.csproj.GenerateResource.cache
+F:\C#\grafredactor\grafredactor\obj\Debug\grafredactor.csproj.CoreCompileInputs.cache
+F:\C#\grafredactor\grafredactor\obj\Debug\grafredactor.exe
+F:\C#\grafredactor\grafredactor\obj\Debug\grafredactor.pdb
